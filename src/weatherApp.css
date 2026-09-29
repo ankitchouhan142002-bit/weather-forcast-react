@@ -1,0 +1,9 @@
+#root{
+    background-color: aliceblue;
+}
+.heading{
+    text-align: center;
+    color: black;
+    margin-top: 30px;
+    font-size: xx-large;
+}
